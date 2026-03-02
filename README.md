@@ -54,11 +54,11 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Node"
+    title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" 
 />
 <img 
     align="left" 
