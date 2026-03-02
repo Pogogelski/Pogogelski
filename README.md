@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Pogogelski
+# 👾 Pedro Pogogelski
 
 **`Desenvolvedor FullStack`**
 
