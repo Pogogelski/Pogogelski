@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá meu nome é Pedro Leonardo Ranckel Pogogelski, sou formado em técnico em informatica na UNIUV, e técnico em Gestão de cooperativas no SENAI.
+Olá meu nome é Pedro Leonardo Ranckel Pogogelski, sou formado em técnico em informatica na UNIUV, e técnico em Gestão de cooperativas no SENAI. Atualmente curso Engenharia de Software na UGV - CENTRO UNIVERSITÁRIO GRANDE VALE DO IGUAÇU  
 Minha paixão é a área da tecnologia! Participei da equipe de robótica no SESI na categoria FTC “First Tech Challenge” a qual consegui junto a minha equipe, vencer a etapa regional de 2024 sendo contemplados com premios e nos destacarmos na etapa nacional em Brasília.
 Na equipe eu atuava como Lider de equipe, gestor financeiro, Mecanico/Engenheiro e Piloto.
 Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATHON no SESC-PR. em que ganhei premiação em 1º lugar com meu protótipo de Software
