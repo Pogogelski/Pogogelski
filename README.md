@@ -58,7 +58,7 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
     title="Node" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://img.beget.com/cp/plain/shared/xoKELFIyHKF4-V5ZaKBvDC7xhOoZJW71/logo_nodejs2x.png@.webp" 
+    src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" 
 />
 <img 
     align="left" 
