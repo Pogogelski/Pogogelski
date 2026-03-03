@@ -52,6 +52,15 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Type" 
+    title="TYPESCRIPT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/typescript.svg" 
+/>
 <img 
     align="left" 
     alt="Node"
@@ -92,6 +101,7 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
 
 <img 
     align="left" 
