@@ -87,6 +87,15 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
 />
 <img 
     align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://camo.githubusercontent.com/b159c6805998d16ff412e620f04c597294d5132599c72318afc7855f811bb3fb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667" 
+/>
+
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
