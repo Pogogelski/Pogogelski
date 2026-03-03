@@ -101,7 +101,14 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="sql" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" 
+/>
 
 <img 
     align="left" 
