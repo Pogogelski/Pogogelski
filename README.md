@@ -107,7 +107,7 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" 
+    src="https://www.svgrepo.com/show/303251/mysql-logo.svg" 
 />
 
 <img 
