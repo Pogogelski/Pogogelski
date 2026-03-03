@@ -56,15 +56,15 @@ Assim tambem como minhas participações em HAKCATONS, sendo a ultima, no IDEATH
 <img 
     align="left" 
     alt="Type" 
-    title="TYPESCRIPT"
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.worldvectorlogo.com/logos/typescript.svg" 
 />
 <img 
     align="left" 
-    alt="Node"
-    title="Node" 
+    alt="Node.js"
+    title="Node.js" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" 
