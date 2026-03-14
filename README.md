@@ -1,6 +1,6 @@
 # 👾 Pedro Pogogelski
 
-**`FullStack Java Developer`**
+**`FullStack Developer`**
 
 Hello, my name is Pedro Leonardo Ranckel Pogogelski, I have a degree in computer science from UNIUV, and a degree in cooperative management from SENAI. I am currently studying Software Engineering at UGV - CENTRO UNIVERSITÁRIO GRANDE VALE DO IGUAÇU.
 My passion is the field of technology! I participated in the robotics team at SESI in the FTC “First Tech Challenge” category, where my team and I won the 2024 regional stage, receiving awards and standing out in the national stage in Brasília. In the team, I acted as team leader, financial manager, mechanic/engineer, and pilot. I also participated in hackathons, the last one being the IDEATHON at SESC-PR, where I won 1st place with my software prototype.
