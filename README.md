@@ -51,22 +51,6 @@ My passion is the field of technology! I participated in the robotics team at SE
     src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-download-png-1175208.png" 
 />
 
-<img 
-    align="left" 
-    alt="Node.js"
-    title="Node.js" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
 
 <img 
     align="left" 
