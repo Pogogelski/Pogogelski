@@ -2,8 +2,7 @@
 
 **`FullStack Developer`**
 
-Hello, my name is Pedro Leonardo Ranckel Pogogelski, I have a degree in computer science from UNIUV, and a degree in cooperative management from SENAI. I am currently studying Software Engineering at UGV - CENTRO UNIVERSITÁRIO GRANDE VALE DO IGUAÇU.
-My passion is the field of technology! I participated in the robotics team at SESI in the FTC “First Tech Challenge” category, where my team and I won the 2024 regional stage, receiving awards and standing out in the national stage in Brasília. In the team, I acted as team leader, financial manager, mechanic/engineer, and pilot. I also participated in hackathons, the last one being the IDEATHON at SESC-PR, where I won 1st place with my software prototype.
+I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNIUV) and Cooperative Management (SENAI). I am currently pursuing a degree in Software Engineering. I was a key member and leader of a SESI robotics team in the FTC (First Tech Challenge), helping win the 2024 regional stage and stand out nationally in Brasília. I took on multiple roles including team leader, financial manager, engineer, and pilot. I have also participated in hackathons, winning 1st place at the IDEATHON (SESC-PR) with a software prototype.
 
 <p align="left"> 
     <a href="https://github.com/Pogogelski?tab=repositories&sort=stargazers">
