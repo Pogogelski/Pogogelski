@@ -1,6 +1,6 @@
 # 👾 Pedro Pogogelski
 
-**`FullStack Developer`**
+**`Prompt Engineer`**
 
 I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNIUV) and Cooperative Management (SENAI). I am currently pursuing a degree in Software Engineering. I was a key member and leader of a SESI robotics team in the FTC (First Tech Challenge), helping win the 2024 regional stage and stand out nationally in Brasília. I took on multiple roles including team leader, financial manager, engineer, and pilot. I have also participated in hackathons, winning 1st place at the IDEATHON (SESC-PR) with a software prototype.
 
