@@ -1,6 +1,6 @@
 # 👾 Pedro Pogogelski
 
-**`Prompt Engineer`**
+**`AI Engineer⚙️ | FullStack Dev 💻`**
 
 I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNIUV) and Cooperative Management (SENAI). I am currently pursuing a degree in Software Engineering. I was a key member and leader of a SESI robotics team in the FTC (First Tech Challenge), helping win the 2024 regional stage and stand out nationally in Brasília. I took on multiple roles including team leader, financial manager, engineer, and pilot. I have also participated in hackathons, winning 1st place at the IDEATHON (SESC-PR) with a software prototype.
 
@@ -76,6 +76,16 @@ I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNI
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" 
 />
+
+<img 
+    align="left" 
+    alt="elevenlabs" 
+    title="ElevenLabs"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://app.aicontentlabs.com/v2/providers/square-icons/ElevenLabs.png" 
+/>
+
 
 
 <br/>
