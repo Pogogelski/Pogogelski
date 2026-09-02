@@ -43,16 +43,6 @@ I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNI
 
 <img 
     align="left" 
-    alt="html"
-    title="HTML" 
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-icon-svg-download-png-1175208.png" 
-/>
-
-
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="35px" 
@@ -71,7 +61,7 @@ I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT (UNI
 <img 
     align="left" 
     alt="sql" 
-    title="POSTGRE"
+    title="SQL"
     width="60px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" 
