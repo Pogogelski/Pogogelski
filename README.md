@@ -34,11 +34,20 @@ I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT and 
 
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
+    alt="Java"
+    title="Java" 
+    width="45px" 
     style="padding-right: 10px;" 
-    src="https://cdn.worldvectorlogo.com/logos/javascript-r.svg" 
+    src="https://images.icon-icons.com/2415/PNG/512/java_original_logo_icon_146458.png" 
+/>
+
+<img 
+    align="left" 
+    alt="Nest"
+    title="Nest" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nest-js-icon.png" 
 />
 
 <img 
