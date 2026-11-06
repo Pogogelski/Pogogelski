@@ -27,7 +27,7 @@ I am Pedro Pogogelski, a technology enthusiast with technical degrees in IT and 
     align="left" 
     alt="python"
     title="Python" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png" 
 />
